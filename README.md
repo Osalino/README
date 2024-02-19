@@ -14,6 +14,7 @@ I'm an indie Front end developer and content creator building my version of the 
       </a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="Static Badge" title="Statix" src="https://img.shields.io/badge/REPOSITORIES-48-blue?style=for-the-badge&logoColor=red&link=https%3A%2F%2Fwww.youtube.com%2F%40OsazemenGmrYT">
+           <img alt="Static Badge" title="Statix" src="https://img.shields.io/badge/REPOSITORIES-48-blue?style=for-the-badge&labelColor=488207&logo=star&link=https%3A%2F%2Fwww.youtube.com%2F%40OsazemenGmrYT">
 </a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
