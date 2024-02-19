@@ -7,7 +7,7 @@ I'm an indie Front end developer and content creator building my version of the 
 style=flat-square
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/@OsazemenGmr?sub_confirmation=1">
          <img alt="Static Badge" src="https://img.shields.io/badge/YOUTUBE-2.8k-red?style=flat-square&logoColor=red&link=https%3A%2F%2Fwww.youtube.com%2F%40OsazemenGmrYT">
       </a> 
       <a href="https://www.youtube.com/c/fknight">
