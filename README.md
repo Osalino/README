@@ -4,7 +4,6 @@
 
 I'm an indie Front end developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Osazemen Gmr][youtube]" to 2.8k subscribers.
 ![Static Badge](https://img.shields.io/badge/YOUTUBE-red?link=https%3A%2F%2Fwww.youtube.com%2F%40OsazemenGmrYT)
-style=flat-square
 
    <p align="left">
       <a href="https://www.youtube.com/c/@OsazemenGmr?sub_confirmation=1">
